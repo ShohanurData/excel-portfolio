@@ -9,14 +9,14 @@ Sales Superstore Sample: Sales Performance Dashboard
 NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS
 
 
-Dashboard
+<img src=https://github.com/ShohanurData/excel-portfolio/blob/main/Excel%20-%20LOOKUP%2C%20INDEX%2C%20MATCH%2C%20SUMIFS.xlsx />
 
 Shipping Data: Pivot Tables, Pivot Chart, Slicers
-Dashboard
+<img src= />
 
 Project Costing Model Data: Scenario Manager, Solver (Data Modeling)
-Dashboard
+<img src= />
 
-Dashboard
+<img src= />
 
-Dashboard
+<img src= />
