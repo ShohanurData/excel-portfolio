@@ -3,7 +3,7 @@ Kindly download these Excel files from this repository and view them in Microsof
 
 Sales Superstore Sample: Sales Performance Dashboard
 
-Dashoard
+[Dashoard](https://github.com/ShohanurData/excel-portfolio/blob/main/DataModeling.png)
 NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS
 
 
