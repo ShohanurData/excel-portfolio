@@ -2,7 +2,7 @@ Excel -
 Kindly download these Excel files from this repository and view them in Microsoft Excel.
 
 Sales Superstore Sample: Sales Performance Dashboard
-https://github.com/ShohanurData/excel-portfolio/blob/main/Images/Dashboards.png
+<img src="https://github.com/ShohanurData/excel-portfolio/blob/main/Images/Dashboards.png" />
 
 NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS
 Dashboard
